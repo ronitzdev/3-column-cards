@@ -39,4 +39,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Frontend Mentor - [@RoniGerman](https://www.frontendmentor.io/profile/RoniGerman)
+- GitHub - [ronitzdev](https://github.com/ronitzdev)
+- Frontend Mentor - [@ronitzdev](https://www.frontendmentor.io/profile/ronitzdev)
+- LinkedIn - [@ronitzdev](https://www.linkedin.com/in/ronitzdev/)
